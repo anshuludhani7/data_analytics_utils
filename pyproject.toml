@@ -1,0 +1,10 @@
+[project]
+name = "data_analytics_utils"
+version = "0.1.0"
+description = "my resuable analytics functions"
+authors = [{name = "Anshul"}]
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
