@@ -1,3 +1,5 @@
+import pandas as pd 
+
 def explain_data(dataframe):
   ''' 
   Returns a dataframe with columns such as shape, data types,
