@@ -1,6 +1,8 @@
-import pandas as pd 
-
 def explain_data(dataframe):
+
+  import pandas as pd
+
+
   ''' 
   Returns a dataframe with columns such as shape, data types,
   missing values and descriptive stats for all columns of input dataframe. 
