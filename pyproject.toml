@@ -3,7 +3,7 @@ name = "data_analytics_utils"
 version = "0.1.0"
 description = "my resuable analytics functions"
 authors = [{name = "Anshul"}]
-dependencies = []
+dependencies = ["pandas"]
 
 [build-system]
 requires = ["setuptools"]
